@@ -1,6 +1,8 @@
 # C++ Problem Solving
+
 This repository contains C++ programs that I wrote while learning
-data structures and algorithms.
+data structures and algorithms, focusing on writing clean and
+efficient solutions.
 
 ## Topics Covered
 - Sorting
@@ -8,5 +10,5 @@ data structures and algorithms.
 - Binary Search on Answer
 - Greedy Algorithms
 
-Each file in this repository represents a single problem with a
-clean and readable solution.
+Each file represents a single problem and reflects what I learned
+about optimizing brute-force approaches into efficient solutions.
